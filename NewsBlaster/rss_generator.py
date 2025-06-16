@@ -31,7 +31,7 @@ def multi_rss_generator(feed_urls, max_articles = 5):
             count = 0 #tracks how many articles we have yielded , last time upar rkha tha
             for item in soup.find_all('item'):
 
-                link_tag = item.find('link') # type: ignore
+                link_tag = item.find('link') # type: ignore vs code sucks T_T
                 if link_tag and link_tag.text:
                     yield link_tag.text.strip() # yield the link of the article
 
