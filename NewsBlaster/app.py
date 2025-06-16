@@ -8,7 +8,7 @@ import time
 
 
 st.set_page_config(page_title="📰 NEWSBLASTER", page_icon="🗿", layout="wide")
-st.title("📰 NEWSBLASTER")
+st.title("📰 NEWSBLASTER2.0")
 if st.button("Refresh"):
     st.cache_data.clear()
     st.rerun()
