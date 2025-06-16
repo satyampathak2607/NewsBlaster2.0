@@ -1,0 +1,1440 @@
+2025-06-16 20:54:58,035 [INFO] starting
+2025-06-16 20:54:58,036 [INFO] Starting RSS feed generation
+2025-06-16 20:54:58,562 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:54:58,562 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:54:58,562 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:54:58,562 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:54:59,052 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:54:59,052 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:54:59,053 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:54:59,053 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:54:59,650 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:54:59,650 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:54:59,650 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:54:59,650 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:00,158 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:00,158 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:00,158 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:00,158 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:02,331 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:02,331 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:02,331 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:02,331 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:02,331 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 20:55:02,331 [INFO] Starting threaded fetching of articles
+2025-06-16 20:55:02,671 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 20:55:02,749 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/dc-directs-officials-to-ensure-transparency-and-effective-management-of-aarogya-dhama-at-mims/article69701305.ece to raw_articles\article69701305.ece.txt
+2025-06-16 20:55:02,749 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/2-arrested-autos-worth-11-lakh-recovered/article69701301.ece to raw_articles\article69701301.ece.txt
+2025-06-16 20:55:02,919 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 20:55:02,956 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 20:55:02,958 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/rains-lash-parts-of-malnad-region-two-people-die-inflow-into-reservoirs-increase/article69701446.ece to raw_articles\article69701446.ece.txt
+2025-06-16 20:55:02,959 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 20:55:03,061 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:03,067 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/rescued-leopard-shifted-to-tirupati-zoo/article69701740.ece to raw_articles\article69701740.ece.txt
+2025-06-16 20:55:03,250 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 20:55:03,305 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 20:55:03,318 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 20:55:03,318 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 20:55:03,386 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 20:55:03,388 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 20:55:03,451 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 20:55:03,523 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 20:55:03,556 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 20:55:03,557 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 20:55:03,728 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 20:55:03,729 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 20:55:03,874 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 20:55:03,874 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:03,945 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 20:55:03,946 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 20:55:03,946 [INFO] Threaded fetching completed
+2025-06-16 20:55:03,946 [INFO] Starting summarization process
+2025-06-16 20:55:06,978 [ERROR] An error occurred: [WinError 3] The system cannot find the path specified: 'raw_data'
+2025-06-16 20:55:06,979 [INFO] Pipeline completed successfully
+2025-06-16 20:55:35,475 [INFO] starting
+2025-06-16 20:55:35,476 [INFO] Starting RSS feed generation
+2025-06-16 20:55:36,065 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:36,066 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:36,066 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:36,066 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:36,544 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:36,545 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:36,545 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:36,545 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:36,820 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:36,820 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:36,820 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:36,821 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:37,145 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:37,146 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:37,146 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:37,146 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:37,552 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:37,553 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:37,553 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:37,553 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:37,553 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 20:55:37,553 [INFO] Starting threaded fetching of articles
+2025-06-16 20:55:37,922 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/dc-directs-officials-to-ensure-transparency-and-effective-management-of-aarogya-dhama-at-mims/article69701305.ece to raw_articles\article69701305.ece.txt
+2025-06-16 20:55:37,957 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 20:55:37,963 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/rescued-leopard-shifted-to-tirupati-zoo/article69701740.ece to raw_articles\article69701740.ece.txt
+2025-06-16 20:55:38,115 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 20:55:38,116 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/2-arrested-autos-worth-11-lakh-recovered/article69701301.ece to raw_articles\article69701301.ece.txt
+2025-06-16 20:55:38,134 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:38,134 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 20:55:38,207 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 20:55:38,212 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 20:55:38,214 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/rains-lash-parts-of-malnad-region-two-people-die-inflow-into-reservoirs-increase/article69701446.ece to raw_articles\article69701446.ece.txt
+2025-06-16 20:55:38,476 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 20:55:38,519 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 20:55:38,831 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 20:55:38,836 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 20:55:38,838 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 20:55:38,839 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 20:55:38,840 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 20:55:38,935 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 20:55:38,946 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 20:55:38,946 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 20:55:39,116 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 20:55:39,118 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:39,381 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 20:55:39,382 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 20:55:39,382 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 20:55:39,382 [INFO] Threaded fetching completed
+2025-06-16 20:55:39,383 [INFO] Starting summarization process
+2025-06-16 20:55:41,400 [INFO] starting
+2025-06-16 20:55:41,400 [INFO] Starting RSS feed generation
+2025-06-16 20:55:41,686 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:41,686 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:41,686 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:41,686 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:55:42,294 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:42,294 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:42,294 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:42,294 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:55:42,726 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:42,726 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:42,726 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:42,726 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:55:43,092 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:43,092 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:43,092 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:43,092 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:55:43,562 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:43,562 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:43,562 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:43,562 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:55:43,563 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 20:55:43,563 [INFO] Starting threaded fetching of articles
+2025-06-16 20:55:43,973 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 20:55:44,076 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/2-arrested-autos-worth-11-lakh-recovered/article69701301.ece to raw_articles\article69701301.ece.txt
+2025-06-16 20:55:44,080 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/rescued-leopard-shifted-to-tirupati-zoo/article69701740.ece to raw_articles\article69701740.ece.txt
+2025-06-16 20:55:44,303 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 20:55:44,303 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 20:55:44,303 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/rains-lash-parts-of-malnad-region-two-people-die-inflow-into-reservoirs-increase/article69701446.ece to raw_articles\article69701446.ece.txt
+2025-06-16 20:55:44,304 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/dc-directs-officials-to-ensure-transparency-and-effective-management-of-aarogya-dhama-at-mims/article69701305.ece to raw_articles\article69701305.ece.txt
+2025-06-16 20:55:44,304 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 20:55:44,306 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 20:55:44,307 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:44,473 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 20:55:44,568 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 20:55:44,580 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 20:55:44,581 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 20:55:44,659 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 20:55:44,872 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 20:55:44,879 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 20:55:44,944 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 20:55:44,956 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 20:55:45,010 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 20:55:45,011 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:55:45,046 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 20:55:45,080 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 20:55:45,113 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 20:55:45,268 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 20:55:45,268 [INFO] Threaded fetching completed
+2025-06-16 20:55:45,268 [INFO] Starting summarization process
+2025-06-16 20:55:48,169 [ERROR] An error occurred: [WinError 3] The system cannot find the path specified: 'raw_data'
+2025-06-16 20:55:48,169 [INFO] Pipeline completed successfully
+2025-06-16 20:56:32,449 [INFO] starting
+2025-06-16 20:56:32,449 [INFO] Starting RSS feed generation
+2025-06-16 20:56:32,867 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:56:32,868 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:56:32,868 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:56:32,868 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:56:33,354 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:56:33,354 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:56:33,354 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:56:33,354 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:56:33,710 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:56:33,711 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:56:33,711 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:56:33,711 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:56:34,016 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:56:34,016 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:56:34,016 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:56:34,017 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:56:34,423 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:56:34,423 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:56:34,423 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:56:34,423 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:56:34,423 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 20:56:34,423 [INFO] Starting threaded fetching of articles
+2025-06-16 20:56:34,791 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:56:34,835 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 20:56:34,871 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/rains-lash-parts-of-malnad-region-two-people-die-inflow-into-reservoirs-increase/article69701446.ece to raw_articles\article69701446.ece.txt
+2025-06-16 20:56:34,970 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 20:56:35,007 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/bailable-arrest-warrant-issued-against-former-minister-perni-nani/article69701898.ece to raw_articles\article69701898.ece.txt
+2025-06-16 20:56:35,008 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 20:56:35,068 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 20:56:35,069 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/thrissur-reels-under-heavy-rain/article69701813.ece to raw_articles\article69701813.ece.txt
+2025-06-16 20:56:35,071 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 20:56:35,074 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/holiday-as-uttara-kannada-gets-red-alert/article69701797.ece to raw_articles\article69701797.ece.txt
+2025-06-16 20:56:35,115 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 20:56:35,289 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 20:56:35,290 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 20:56:35,322 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 20:56:35,362 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:56:35,530 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 20:56:35,531 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 20:56:35,531 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 20:56:35,533 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 20:56:35,593 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 20:56:35,593 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 20:56:35,687 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 20:56:35,765 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 20:56:35,798 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 20:56:35,847 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 20:56:35,847 [INFO] Threaded fetching completed
+2025-06-16 20:56:35,847 [INFO] Starting summarization process
+2025-06-16 20:56:38,778 [ERROR] An error occurred: [WinError 3] The system cannot find the path specified: 'raw_data'
+2025-06-16 20:56:38,778 [INFO] Pipeline completed successfully
+2025-06-16 20:58:44,229 [INFO] starting
+2025-06-16 20:58:44,229 [INFO] Starting RSS feed generation
+2025-06-16 20:58:44,620 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:58:44,621 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:58:44,621 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:58:44,622 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 20:58:44,901 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:58:44,902 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:58:44,902 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:58:44,902 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 20:58:45,128 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:58:45,128 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:58:45,129 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:58:45,129 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 20:58:45,366 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:58:45,366 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:58:45,366 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:58:45,367 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 20:58:45,676 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:58:45,676 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:58:45,676 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:58:45,676 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 20:58:45,676 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 20:58:45,676 [INFO] Starting threaded fetching of articles
+2025-06-16 20:58:45,934 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 20:58:46,185 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/six-drug-peddlers-held-in-separate-cases-65-kg-ganja-seized-in-nellore/article69701904.ece to raw_articles\article69701904.ece.txt
+2025-06-16 20:58:46,185 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 20:58:46,185 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 20:58:46,185 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 20:58:46,186 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/ap-gst-staff-take-up-frequent-transfers-with-chief-commissioner/article69701340.ece to raw_articles\article69701340.ece.txt
+2025-06-16 20:58:46,186 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 20:58:46,189 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/holiday-as-uttara-kannada-gets-red-alert/article69701797.ece to raw_articles\article69701797.ece.txt
+2025-06-16 20:58:46,265 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/thrissur-reels-under-heavy-rain/article69701813.ece to raw_articles\article69701813.ece.txt
+2025-06-16 20:58:46,265 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/hosanagara-tahsildar-issues-notice-to-kantara-the-legend-part-1-production-team/article69701534.ece to raw_articles\article69701534.ece.txt
+2025-06-16 20:58:46,316 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 20:58:46,456 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 20:58:46,457 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 20:58:46,688 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 20:58:46,689 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 20:58:46,692 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 20:58:46,692 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 20:58:46,692 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 20:58:46,814 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 20:58:46,815 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 20:58:46,817 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 20:58:46,851 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 20:58:46,908 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 20:58:47,038 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 20:58:47,069 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 20:58:47,070 [INFO] Threaded fetching completed
+2025-06-16 20:58:47,070 [INFO] Starting summarization process
+2025-06-16 20:58:49,933 [ERROR] An error occurred: [WinError 3] The system cannot find the path specified: 'raw_data'
+2025-06-16 20:58:49,933 [INFO] Pipeline completed successfully
+2025-06-16 21:21:44,728 [INFO] starting
+2025-06-16 21:21:44,729 [INFO] Starting RSS feed generation
+2025-06-16 21:21:45,185 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:21:45,186 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:21:45,186 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:21:45,186 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:21:45,536 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:21:45,536 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:21:45,536 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:21:45,536 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:21:45,926 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:21:45,926 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:21:45,926 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:21:45,926 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:21:46,344 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:21:46,344 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:21:46,344 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:21:46,344 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:21:46,797 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:21:46,797 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:21:46,797 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:21:46,797 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:21:46,798 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 21:21:46,798 [INFO] Starting threaded fetching of articles
+2025-06-16 21:21:47,077 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 21:21:47,203 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/union-govt-urged-to-increase-support-to-states-for-skilling-initiatives/article69702049.ece to raw_articles\article69702049.ece.txt
+2025-06-16 21:21:47,203 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 21:21:47,205 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 21:21:47,209 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/nilambur-bypoll-campaign-reaches-a-crescendo/article69701912.ece to raw_articles\article69701912.ece.txt
+2025-06-16 21:21:47,434 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/man-gets-life-sentence-for-impregnating-minor-girl-in-west-godavari/article69702065.ece to raw_articles\article69702065.ece.txt
+2025-06-16 21:21:47,434 [INFO] Saved article from https://www.thehindu.com/news/national/kuki-zo-groups-and-mha-reach-an-understanding-on-closure-of-7-camps-close-to-meitei-areas-says-govt-official/article69701822.ece to raw_articles\article69701822.ece.txt
+2025-06-16 21:21:47,434 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 21:21:47,434 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/restoration-of-mullassery-canal-in-progress-hc-told/article69701495.ece to raw_articles\article69701495.ece.txt
+2025-06-16 21:21:47,435 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 21:21:47,513 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 21:21:47,566 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 21:21:47,633 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 21:21:47,664 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 21:21:47,666 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 21:21:47,744 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 21:21:47,859 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 21:21:47,859 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 21:21:47,860 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 21:21:48,050 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 21:21:48,050 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 21:21:48,082 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 21:21:48,180 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 21:21:48,242 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 21:21:48,242 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 21:21:48,242 [INFO] Threaded fetching completed
+2025-06-16 21:21:48,243 [INFO] Starting summarization process
+2025-06-16 21:21:48,243 [INFO] Pipeline completed successfully
+2025-06-16 21:23:40,726 [INFO] starting
+2025-06-16 21:23:40,727 [INFO] Starting RSS feed generation
+2025-06-16 21:23:41,519 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:23:41,520 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:23:41,520 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:23:41,520 [INFO] Processed 4 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:23:41,917 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:23:41,917 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:23:41,917 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:23:41,918 [INFO] Processed 4 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:23:42,481 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:23:42,481 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:23:42,481 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:23:42,482 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:23:42,747 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:23:42,748 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:23:42,748 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:23:42,748 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:23:43,143 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:23:43,144 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:23:43,144 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:23:43,144 [INFO] Processed 4 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:23:43,144 [INFO] Generated 25 URLs from RSS feeds
+2025-06-16 21:23:43,144 [INFO] Starting threaded fetching of articles
+2025-06-16 21:23:43,565 [INFO] Saved article from https://www.thehindu.com/news/national/pm-modi-conferred-with-cyprus-highest-civilian-honour/article69700422.ece to raw_articles\article69700422.ece.txt
+2025-06-16 21:23:43,566 [INFO] Saved article from https://www.thehindu.com/news/national/kuki-zo-groups-and-mha-reach-an-understanding-on-closure-of-7-camps-close-to-meitei-areas-says-govt-official/article69701822.ece to raw_articles\article69701822.ece.txt
+2025-06-16 21:23:43,770 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 21:23:43,847 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/union-govt-urged-to-increase-support-to-states-for-skilling-initiatives/article69702049.ece to raw_articles\article69702049.ece.txt
+2025-06-16 21:23:43,891 [INFO] Saved article from https://www.thehindu.com/news/international/timeline-on-iran-and-israel-conflict/article69700344.ece to raw_articles\article69700344.ece.txt
+2025-06-16 21:23:43,891 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 21:23:43,892 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/restoration-of-mullassery-canal-in-progress-hc-told/article69701495.ece to raw_articles\article69701495.ece.txt
+2025-06-16 21:23:43,892 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/nilambur-bypoll-campaign-reaches-a-crescendo/article69701912.ece to raw_articles\article69701912.ece.txt
+2025-06-16 21:23:43,894 [INFO] Saved article from https://www.thehindu.com/news/national/andhra-pradesh/man-gets-life-sentence-for-impregnating-minor-girl-in-west-godavari/article69702065.ece to raw_articles\article69702065.ece.txt
+2025-06-16 21:23:43,895 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 21:23:44,203 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 21:23:44,239 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 21:23:44,463 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 21:23:44,464 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 21:23:44,466 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/a-lab-for-creativity-at-udavum-karangal/article69700487.ece to raw_articles\article69700487.ece.txt
+2025-06-16 21:23:44,556 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 21:23:44,565 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 21:23:44,602 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 21:23:44,730 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 21:23:44,731 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bike-taxi-ban-comes-into-effect-in-karnataka-but-some-aggregators-continue-to-operate/article69700157.ece to raw_articles\article69700157.ece.txt
+2025-06-16 21:23:44,795 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 21:23:44,795 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 21:23:44,877 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 21:23:44,922 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 21:23:44,922 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/kishan-reddy-inspects-gandhi-hospital-calls-for-upgrading-facilities/article69701565.ece to raw_articles\article69701565.ece.txt
+2025-06-16 21:23:44,922 [INFO] Threaded fetching completed
+2025-06-16 21:23:44,923 [INFO] Starting summarization process
+2025-06-16 21:23:44,923 [INFO] Pipeline completed successfully
+2025-06-16 21:33:45,989 [INFO] starting
+2025-06-16 21:33:45,989 [INFO] Starting RSS feed generation
+2025-06-16 21:33:46,324 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:33:46,325 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:33:46,325 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 21:33:46,704 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:33:46,704 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:33:46,704 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 21:33:46,996 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:33:46,998 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:33:46,998 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 21:33:47,328 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:33:47,328 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:33:47,328 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 21:33:47,760 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:33:47,761 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:33:47,762 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 21:33:47,762 [INFO] Generated 20 URLs from RSS feeds
+2025-06-16 21:33:47,762 [INFO] Starting threaded fetching of articles
+2025-06-16 21:33:48,057 [INFO] Saved article from https://www.thehindu.com/news/international/ukraines-zelenskyy-visits-austria-for-first-time-since-russias-full-scale-invasion-of-his-country/article69700725.ece to raw_articles\article69700725.ece.txt
+2025-06-16 21:33:48,098 [INFO] Saved article from https://www.thehindu.com/sci-tech/energy-and-environment/in-year-of-negative-news-un-climate-chief-says-15-c-goal-still-achievable/article69700680.ece to raw_articles\article69700680.ece.txt
+2025-06-16 21:33:48,154 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 21:33:48,331 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 21:33:48,334 [INFO] Saved article from https://www.thehindu.com/news/national/tamil-nadu/palaniswami-criticises-stalin-for-acting-against-farmers/article69702004.ece to raw_articles\article69702004.ece.txt
+2025-06-16 21:33:48,334 [INFO] Saved article from https://www.thehindu.com/news/national/dont-depend-on-agents-for-pf-services-epfo-tells-members/article69702014.ece to raw_articles\article69702014.ece.txt
+2025-06-16 21:33:48,336 [INFO] Saved article from https://www.thehindu.com/news/international/where-does-donald-trump-stand-on-the-israel-iran-war-analysis/article69702062.ece to raw_articles\article69702062.ece.txt
+2025-06-16 21:33:48,436 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/cpim-congress-workers-clash-over-office-building/article69702124.ece to raw_articles\article69702124.ece.txt
+2025-06-16 21:33:48,440 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 21:33:48,441 [INFO] Saved article from https://www.thehindu.com/news/national/tamil-nadu/govt-arts-and-science-colleges-reopen-for-students-of-higher-classes/article69701338.ece to raw_articles\article69701338.ece.txt
+2025-06-16 21:33:48,537 [INFO] Saved article from https://www.thehindu.com/shorts/watch-whats-on-the-menu-in-chennais-tamarind-tales/article69700535.ece to raw_articles\article69700535.ece.txt
+2025-06-16 21:33:48,586 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/broadway-bus-terminus-in-chennai-turns-into-dump-yard-of-vegetable-and-food-wastes/article69697264.ece to raw_articles\article69697264.ece.txt
+2025-06-16 21:33:48,623 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/seminar-on-holistic-support-for-individuals-with-special-needs-held/article69701016.ece to raw_articles\article69701016.ece.txt
+2025-06-16 21:33:48,666 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 21:33:48,756 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 21:33:48,756 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/bengaluru-rapido-bike-taxi-driver-booked-for-slapping-woman-customer/article69700825.ece to raw_articles\article69700825.ece.txt
+2025-06-16 21:33:48,758 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 21:33:48,796 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 21:33:48,946 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 21:33:48,947 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 21:33:48,948 [INFO] Threaded fetching completed
+2025-06-16 21:33:48,948 [INFO] Starting summarization process
+2025-06-16 21:33:48,949 [INFO] Pipeline completed successfully
+2025-06-16 22:57:32,748 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-16 22:57:32,877 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-16 22:57:33,274 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-16 22:57:33,745 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-16 22:57:38,270 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-16 22:57:38,622 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-16 22:57:39,363 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-16 22:57:40,215 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-16 22:57:42,952 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-16 22:57:43,946 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-16 22:57:44,793 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-16 22:57:46,903 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-16 22:57:47,244 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-16 22:57:49,641 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-16 22:57:52,706 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-16 22:57:52,945 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-16 22:57:54,203 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-16 22:57:54,559 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-16 22:58:00,852 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-16 22:58:01,696 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-16 22:58:02,368 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-16 22:58:02,381 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-16 22:58:07,504 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-16 22:58:08,343 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-16 22:58:09,002 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-16 22:58:10,441 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-16 22:58:13,646 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-16 22:58:13,649 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-16 22:58:15,442 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-16 22:58:16,809 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-16 22:58:18,790 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-16 22:58:20,548 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-16 22:58:22,385 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-16 22:58:23,975 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-16 22:58:24,107 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-16 22:58:26,257 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-16 22:58:28,791 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-16 22:58:30,741 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-16 22:58:30,941 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-16 22:58:34,407 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-16 22:58:37,316 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-16 22:58:39,641 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-16 22:58:40,017 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-16 22:58:41,473 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-16 22:58:43,066 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-16 22:58:45,548 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-16 22:58:47,425 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-16 22:58:47,526 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-16 22:58:48,485 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-16 22:58:51,367 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-16 22:58:54,033 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-16 22:58:54,336 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-16 22:58:56,479 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-16 22:58:57,901 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-16 22:59:00,187 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-16 22:59:01,520 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-16 22:59:02,941 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-16 22:59:04,059 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-16 22:59:05,421 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-16 22:59:07,302 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-16 22:59:10,021 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-16 22:59:10,190 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-16 22:59:10,349 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-16 22:59:10,639 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-16 22:59:10,639 [INFO] All articles have been summarized.
+2025-06-16 22:59:54,545 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-16 22:59:54,949 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-16 22:59:55,221 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-16 22:59:55,641 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-16 23:00:00,891 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-16 23:00:01,540 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-16 23:00:01,716 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-16 23:00:02,836 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-16 23:00:06,583 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-16 23:00:07,340 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-16 23:00:07,825 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-16 23:00:10,778 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-16 23:00:11,148 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-16 23:00:13,492 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-16 23:00:16,408 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-16 23:00:17,495 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-16 23:00:18,053 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-16 23:00:18,591 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-16 23:00:24,552 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-16 23:00:24,679 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-16 23:00:25,152 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-16 23:00:25,844 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-16 23:00:30,667 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-16 23:00:30,839 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-16 23:00:31,078 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-16 23:00:33,229 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-16 23:00:37,350 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-16 23:00:37,354 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-16 23:00:38,000 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-16 23:00:39,567 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-16 23:00:40,589 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-16 23:00:44,230 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-16 23:00:44,729 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-16 23:00:45,736 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-16 23:00:46,438 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-16 23:00:49,562 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-16 23:00:50,618 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-16 23:00:52,144 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-16 23:00:52,596 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-16 23:00:56,573 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-16 23:00:57,365 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-16 23:01:00,029 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-16 23:01:00,638 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-16 23:01:02,191 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-16 23:01:02,474 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-16 23:01:05,598 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-16 23:01:07,177 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-16 23:01:07,366 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-16 23:01:07,760 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-16 23:01:11,264 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-16 23:01:13,643 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-16 23:01:14,380 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-16 23:01:16,087 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-16 23:01:16,480 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-16 23:01:19,376 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-16 23:01:23,863 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-16 23:01:25,326 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-16 23:01:26,364 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-16 23:01:30,640 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-16 23:01:38,819 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-16 23:01:41,197 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-16 23:01:41,962 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-16 23:01:42,071 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-16 23:01:44,279 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-16 23:01:44,281 [INFO] All articles have been summarized.
+2025-06-16 23:01:44,282 [INFO] starting
+2025-06-16 23:01:44,282 [INFO] Starting RSS feed generation
+2025-06-16 23:01:44,722 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 23:01:44,723 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 23:01:44,723 [INFO] Processed 3 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-16 23:01:45,101 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 23:01:45,102 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 23:01:45,102 [INFO] Processed 3 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-16 23:01:45,404 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 23:01:45,404 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 23:01:45,405 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-16 23:01:45,732 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 23:01:45,732 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 23:01:45,732 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-16 23:01:46,211 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 23:01:46,211 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 23:01:46,212 [INFO] Processed 3 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-16 23:01:46,212 [INFO] Generated 20 URLs from RSS feeds
+2025-06-16 23:01:46,212 [INFO] Starting threaded fetching of articles
+2025-06-16 23:01:46,756 [INFO] Saved article from https://www.thehindu.com/news/national/uttarakhand/day-after-chopper-crash-uttarakhand-government-to-resume-helicopter-services-from-june-17/article69702296.ece to raw_articles\article69702296.ece.txt
+2025-06-16 23:01:47,444 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/share-your-stories-and-receive-a-murukku-in-return/article69701753.ece to raw_articles\article69701753.ece.txt
+2025-06-16 23:01:47,465 [INFO] Saved article from https://www.thehindu.com/news/national/advocates-body-issues-statement-against-ed-notice-to-senior-advocate-arvind-datar/article69701496.ece to raw_articles\article69701496.ece.txt
+2025-06-16 23:01:47,490 [INFO] Saved article from https://www.thehindu.com/news/national/kerala/international-domestic-workers-day-observed/article69702313.ece to raw_articles\article69702313.ece.txt
+2025-06-16 23:01:47,491 [INFO] Saved article from https://www.thehindu.com/news/international/us-envoy-says-tel-aviv-embassy-building-damaged-by-iran-strike/article69701539.ece to raw_articles\article69701539.ece.txt
+2025-06-16 23:01:47,491 [INFO] Saved article from https://www.thehindu.com/news/national/india-starts-relocating-citizens-from-tehran-to-other-parts-of-iran-considers-exit-routes-from-israel-for-indian-citizens/article69702132.ece to raw_articles\article69702132.ece.txt
+2025-06-16 23:01:47,491 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/long-neglected-vilinjiyambakkam-lake-near-avadi-inches-closer-to-restoration/article69701532.ece to raw_articles\article69701532.ece.txt
+2025-06-16 23:01:47,493 [INFO] Saved article from https://www.thehindu.com/news/international/stranded-kashmiri-students-being-shifted-out-of-irans-capital-tehran-to-qom-say-parents/article69702016.ece to raw_articles\article69702016.ece.txt
+2025-06-16 23:01:47,495 [INFO] Saved article from https://www.thehindu.com/news/international/where-does-donald-trump-stand-on-the-israel-iran-war-analysis/article69702062.ece to raw_articles\article69702062.ece.txt
+2025-06-16 23:01:47,496 [INFO] Saved article from https://www.thehindu.com/news/international/palestinians-killed-in-new-shootings-near-food-distribution-centers-medics-say/article69700954.ece to raw_articles\article69700954.ece.txt
+2025-06-16 23:01:47,711 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/after-major-facelift-valluvar-kottam-a-landmark-of-chennai-is-ready-for-inauguration/article69701116.ece to raw_articles\article69701116.ece.txt
+2025-06-16 23:01:47,864 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/a-comprehensive-legislation-for-3-crore-domestic-workers-in-india-demanded-by-npdw/article69701502.ece to raw_articles\article69701502.ece.txt
+2025-06-16 23:01:48,501 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-16 23:01:48,503 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/ktr-alleges-cm-revanth-wants-to-derive-sadistic-pleasure-by-sending-him-to-jail/article69701605.ece to raw_articles\article69701605.ece.txt
+2025-06-16 23:01:48,504 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/formula-e-case-ktr-questioned-for-eight-hours-by-acb/article69701264.ece to raw_articles\article69701264.ece.txt
+2025-06-16 23:01:48,504 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/karnataka-students-in-iran-b-pac-team-in-israel-seek-to-return-amid-tensions/article69701824.ece to raw_articles\article69701824.ece.txt
+2025-06-16 23:01:48,662 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/lawyers-in-chennai-demand-advocates-protection-act/article69700001.ece to raw_articles\article69700001.ece.txt
+2025-06-16 23:01:48,662 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/3-day-iitex-2025-industrial-innovation-tech-expo-of-ftcci-to-open-on-june-27/article69701459.ece to raw_articles\article69701459.ece.txt
+2025-06-16 23:01:48,663 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/domestic-workers-demand-recognition-call-for-law-similar-to-that-of-gig-workers/article69701577.ece to raw_articles\article69701577.ece.txt
+2025-06-16 23:01:48,666 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/cyclothon-walkathon-organised-to-promote-sustainable-living/article69700830.ece to raw_articles\article69700830.ece.txt
+2025-06-16 23:01:48,666 [INFO] Threaded fetching completed
+2025-06-16 23:01:48,667 [INFO] Starting summarization process
+2025-06-16 23:01:48,667 [INFO] Pipeline completed successfully
+2025-06-16 23:04:21,851 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-16 23:04:23,320 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-16 23:04:23,698 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-16 23:04:24,114 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-16 23:04:24,285 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-16 23:04:24,572 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-16 23:04:29,476 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-16 23:04:30,464 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-16 23:04:31,348 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-16 23:04:32,665 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-16 23:04:33,885 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-16 23:04:35,411 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-16 23:04:35,758 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-16 23:04:38,873 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-16 23:04:40,935 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-16 23:04:41,975 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-16 23:04:43,078 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-16 23:04:44,764 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-16 23:04:45,214 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-16 23:04:50,356 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-16 23:04:52,033 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-16 23:04:53,086 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-16 23:04:53,384 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-16 23:04:53,520 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-16 23:04:54,430 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-16 23:04:54,431 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-16 23:04:59,535 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-16 23:05:01,332 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-16 23:05:01,888 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-16 23:05:02,300 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-16 23:05:05,341 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-16 23:05:07,444 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-16 23:05:07,739 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-16 23:05:08,572 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-16 23:05:10,749 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-16 23:05:11,105 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-16 23:05:14,737 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-16 23:05:14,896 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-16 23:05:16,772 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-16 23:05:18,214 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-16 23:05:19,787 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-16 23:05:20,985 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-16 23:05:23,006 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-16 23:05:23,382 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-16 23:05:24,134 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-16 23:05:26,229 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-16 23:05:27,156 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-16 23:05:28,697 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-16 23:05:30,645 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-16 23:05:31,198 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-16 23:05:32,792 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-16 23:05:34,836 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-16 23:05:34,860 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-16 23:05:39,194 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-16 23:05:40,647 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-16 23:05:41,900 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-16 23:05:43,902 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-16 23:05:45,143 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-16 23:05:48,519 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-16 23:05:49,836 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-16 23:05:50,160 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-16 23:05:53,682 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-16 23:05:55,193 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-16 23:05:55,290 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-16 23:05:55,960 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-16 23:05:58,801 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-16 23:05:59,799 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-16 23:06:02,870 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-16 23:06:02,939 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-16 23:06:03,356 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-16 23:06:03,543 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-16 23:06:04,353 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-16 23:06:05,502 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-16 23:06:06,512 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-16 23:06:06,513 [INFO] All articles have been summarized.
+2025-06-16 23:11:16,201 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-16 23:11:16,210 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-16 23:11:16,626 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-16 23:11:20,622 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-16 23:11:20,848 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-16 23:11:21,021 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-16 23:11:24,663 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-16 23:11:25,181 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-16 23:11:25,660 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-16 23:11:27,994 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-16 23:11:29,121 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-16 23:11:30,545 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-16 23:11:31,188 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-16 23:11:33,470 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-16 23:11:35,546 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-16 23:11:36,513 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-16 23:11:39,396 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-16 23:11:41,932 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-16 23:11:43,129 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-16 23:11:45,620 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-16 23:11:45,769 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-16 23:11:48,374 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-16 23:11:48,988 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-16 23:11:51,013 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-16 23:11:51,072 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-16 23:11:54,287 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-16 23:11:54,450 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-16 23:11:54,453 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-16 23:11:56,730 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-16 23:11:58,328 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-16 23:11:59,018 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-16 23:12:00,336 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-16 23:12:02,221 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-16 23:12:02,971 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-16 23:12:03,539 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-16 23:12:05,129 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-16 23:12:07,269 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-16 23:12:08,008 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-16 23:12:08,331 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-16 23:12:11,886 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-16 23:12:13,194 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-16 23:12:14,272 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-16 23:12:14,294 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-16 23:12:17,966 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-16 23:12:18,022 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-16 23:12:18,519 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-16 23:12:20,674 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-16 23:12:22,806 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-16 23:12:23,451 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-16 23:12:26,730 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-16 23:12:30,859 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-16 23:12:36,586 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-16 23:12:37,165 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-16 23:12:42,263 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-16 23:12:46,829 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-16 23:12:52,875 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-16 23:12:54,746 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-16 23:12:59,124 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-16 23:13:04,871 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-16 23:13:06,940 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-16 23:13:09,246 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-16 23:13:17,819 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-16 23:13:18,867 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-16 23:13:21,365 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-16 23:13:23,143 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-16 23:13:33,034 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-16 23:13:33,978 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-16 23:13:37,614 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-16 23:13:38,054 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-16 23:13:45,703 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-16 23:13:46,600 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-16 23:13:48,670 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-16 23:13:49,891 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-16 23:13:52,628 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 00:03:52,233 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:03:52,234 [WARNING] Retrying in 1s [Retry 1/5].
+2025-06-17 00:03:53,313 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:03:53,313 [WARNING] Retrying in 2s [Retry 2/5].
+2025-06-17 00:03:55,392 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:03:55,393 [WARNING] Retrying in 4s [Retry 3/5].
+2025-06-17 00:03:59,468 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:03:59,469 [WARNING] Retrying in 8s [Retry 4/5].
+2025-06-17 00:04:07,544 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:07,544 [WARNING] Retrying in 8s [Retry 5/5].
+2025-06-17 00:04:15,620 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:15,699 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:15,700 [WARNING] Retrying in 1s [Retry 1/5].
+2025-06-17 00:04:16,777 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:16,778 [WARNING] Retrying in 2s [Retry 2/5].
+2025-06-17 00:04:18,853 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:18,853 [WARNING] Retrying in 4s [Retry 3/5].
+2025-06-17 00:04:22,931 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:22,933 [WARNING] Retrying in 8s [Retry 4/5].
+2025-06-17 00:04:31,009 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 00:04:31,010 [WARNING] Retrying in 8s [Retry 5/5].
+2025-06-17 00:04:39,088 [WARNING] HTTP Error 429 thrown while requesting HEAD https://huggingface.co/knkarthick/MEETING_SUMMARY/resolve/main/config.json
+2025-06-17 01:14:26,014 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 01:14:26,204 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 01:14:32,077 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 01:14:32,314 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 01:14:33,012 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 01:14:33,573 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 01:14:41,063 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 01:14:41,081 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 01:14:42,737 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 01:14:45,697 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 01:14:52,845 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 01:14:53,558 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 01:14:57,583 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 01:14:58,967 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 01:15:02,555 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 01:15:03,573 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 01:15:04,340 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 01:15:05,408 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 01:15:11,018 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 01:15:12,696 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 01:15:13,263 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 01:15:15,200 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 01:15:24,229 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 01:15:25,105 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 01:15:25,127 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 01:15:29,041 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 01:15:36,362 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 01:15:36,364 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 01:15:37,924 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 01:15:39,005 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 01:15:41,775 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 01:15:48,514 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 01:15:48,983 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 01:15:49,735 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 01:15:50,077 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 01:15:59,481 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 01:16:00,781 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 01:16:01,061 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 01:16:01,459 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 01:16:11,111 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 01:16:11,381 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 01:16:11,670 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 01:16:11,716 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 01:16:16,338 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 01:16:16,572 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 01:16:18,149 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 01:16:18,803 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 01:16:21,918 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 01:16:22,927 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 01:16:23,333 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 01:16:24,563 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 01:16:28,099 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 01:16:29,218 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 01:16:30,611 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 01:16:32,150 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 01:16:36,658 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 01:16:36,893 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 01:16:37,952 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 01:16:41,897 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 01:16:43,209 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 01:16:43,661 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 01:16:48,194 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 01:16:49,949 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 01:16:50,362 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 01:16:51,750 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 01:16:54,715 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 01:16:56,019 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 01:16:57,048 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 01:16:57,743 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 01:17:00,357 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 01:17:01,235 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 01:17:02,165 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 01:17:03,219 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 01:17:04,373 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 01:18:37,059 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 01:18:37,512 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 01:18:37,827 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 01:18:38,035 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 01:18:38,314 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 01:18:38,483 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 01:18:45,238 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 01:18:45,495 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 01:18:47,013 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 01:18:47,182 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 01:18:48,388 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 01:18:49,476 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 01:18:51,150 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 01:18:54,575 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 01:18:55,632 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 01:18:56,490 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 01:19:00,907 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 01:19:02,440 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 01:19:08,228 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 01:19:13,270 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 01:19:14,789 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 01:19:15,835 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 01:19:19,806 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 01:19:19,970 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 01:19:27,028 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 01:19:27,031 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 01:19:34,005 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 01:19:35,284 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 01:19:36,461 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 01:19:37,566 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 01:19:45,977 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 01:19:46,686 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 01:19:48,890 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 01:19:52,383 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 01:19:52,648 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 01:19:53,122 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 01:20:01,158 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 01:20:01,231 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 01:20:01,495 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 01:20:04,761 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 01:20:05,734 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 01:20:06,600 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 01:20:10,572 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 01:20:11,103 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 01:20:11,792 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 01:20:14,277 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 01:20:15,604 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 01:20:16,720 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 01:20:18,359 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 01:20:19,890 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 01:20:23,099 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 01:20:26,296 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 01:20:29,227 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 01:20:33,784 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 01:20:37,808 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 01:20:43,005 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 01:20:43,314 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 01:20:43,327 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 01:20:52,116 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 01:20:55,877 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 01:20:57,230 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 01:21:01,813 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 01:21:02,427 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 01:21:04,439 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 01:21:05,972 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 01:21:09,101 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 01:21:10,512 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 01:21:12,583 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 01:21:13,307 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 01:21:13,538 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 01:21:13,810 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 01:21:15,152 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 01:21:16,377 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 01:21:16,820 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 01:21:16,820 [INFO] starting
+2025-06-17 01:21:16,820 [INFO] Starting RSS feed generation
+2025-06-17 01:21:17,215 [INFO] Processed 1 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-17 01:21:17,215 [INFO] Processed 2 articles from https://www.thehindu.com/news/national/feeder/default.rss
+2025-06-17 01:21:17,515 [INFO] Processed 1 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-17 01:21:17,515 [INFO] Processed 2 articles from https://www.thehindu.com/news/international/feeder/default.rss
+2025-06-17 01:21:17,800 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-17 01:21:17,800 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/chennai/feeder/default.rss
+2025-06-17 01:21:18,060 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-17 01:21:18,060 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+2025-06-17 01:21:18,418 [INFO] Processed 1 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-17 01:21:18,418 [INFO] Processed 2 articles from https://www.thehindu.com/news/cities/hyderabad/feeder/default.rss
+2025-06-17 01:21:18,419 [INFO] Generated 15 URLs from RSS feeds
+2025-06-17 01:21:18,419 [INFO] Starting threaded fetching of articles
+2025-06-17 01:21:18,689 [INFO] Saved article from https://www.thehindu.com/business/india-to-export-150-locomotives-to-africa-worth-over-3000-crore/article69701841.ece to raw_articles\article69701841.ece.txt
+2025-06-17 01:21:18,689 [INFO] Saved article from https://www.thehindu.com/news/international/iran-state-tv-briefly-knocked-off-air-by-strike-after-missiles-kill-11-in-israel/article69702497.ece to raw_articles\article69702497.ece.txt
+2025-06-17 01:21:18,969 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/metro-rails-driverless-trains-to-undergo-first-safety-test-next-month/article69701172.ece to raw_articles\article69701172.ece.txt
+2025-06-17 01:21:18,971 [INFO] Saved article from https://www.thehindu.com/news/international/g7-summit-in-canada/article69702481.ece to raw_articles\article69702481.ece.txt
+2025-06-17 01:21:18,971 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/domestic-workers-demand-recognition-call-for-law-similar-to-that-of-gig-workers/article69701577.ece to raw_articles\article69701577.ece.txt
+2025-06-17 01:21:18,972 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/elector-population-ratio-in-the-electoral-roll-points-to-decline-in-birth-rate-and-migration/article69701946.ece to raw_articles\article69701946.ece.txt
+2025-06-17 01:21:18,984 [INFO] Saved article from https://www.thehindu.com/news/national/amitabh-kant-resigns-as-g-20-sherpa-thanks-pm-modi-for-the-opportunities/article69702484.ece to raw_articles\article69702484.ece.txt
+2025-06-17 01:21:18,999 [INFO] Saved article from https://www.thehindu.com/news/national/karnataka/complaint-against-person-for-uploading-objectionable-post-on-prime-minister-on-social-media-account/article69701319.ece to raw_articles\article69701319.ece.txt
+2025-06-17 01:21:19,019 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/stalin-likely-to-inaugurate-acmee-2025-on-june-19/article69701202.ece to raw_articles\article69701202.ece.txt
+2025-06-17 01:21:19,059 [INFO] Saved article from https://www.thehindu.com/news/cities/chennai/mobile-van-launched-for-providing-last-mile-delivery-of-passport-services/article69701746.ece to raw_articles\article69701746.ece.txt
+2025-06-17 01:21:19,129 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/donating-blood-is-the-most-noble-and-selfless-act-says-dinesh-gundu-rao/article69701453.ece to raw_articles\article69701453.ece.txt
+2025-06-17 01:21:19,129 [INFO] Saved article from https://www.thehindu.com/news/cities/bangalore/karnataka-students-in-iran-b-pac-team-in-israel-seek-to-return-amid-tensions/article69701824.ece to raw_articles\article69701824.ece.txt
+2025-06-17 01:21:19,275 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/telangana-healthcare-gets-a-bureaucratic-boost-civil-servants-choose-govt-hospitals-for-medical-needs/article69701222.ece to raw_articles\article69701222.ece.txt
+2025-06-17 01:21:19,370 [INFO] Saved article from https://www.thehindu.com/news/cities/Hyderabad/ghmc-commissioner-issues-detailed-sop-for-sealing-of-unauthorised-premises/article69701705.ece to raw_articles\article69701705.ece.txt
+2025-06-17 01:21:19,370 [INFO] Saved article from https://www.thehindu.com/news/national/telangana/scr-set-to-shrink-in-scope-as-south-coast-railway-gains-steam/article69701030.ece to raw_articles\article69701030.ece.txt
+2025-06-17 01:21:19,371 [INFO] Threaded fetching completed
+2025-06-17 01:21:19,371 [INFO] Starting summarization process
+2025-06-17 01:21:19,371 [INFO] Pipeline completed successfully
+2025-06-17 01:31:50,223 [INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-17 01:31:50,223 [INFO] NumExpr defaulting to 8 threads.
+2025-06-17 01:31:59,496 [WARNING] From C:\Users\satya\AppData\Roaming\Python\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-17 01:33:45,583 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 01:33:46,239 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 01:33:46,252 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 01:33:46,296 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 01:33:46,655 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 01:33:46,912 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 01:33:55,306 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 01:33:57,546 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 01:33:59,024 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 01:33:59,704 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 01:34:02,698 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 01:34:05,783 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 01:34:08,555 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 01:34:14,808 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 01:34:16,008 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 01:34:17,954 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 01:34:20,529 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 01:34:20,876 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 01:34:24,036 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 01:34:26,360 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 01:34:27,635 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 01:34:28,317 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 01:34:29,493 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 01:34:30,021 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 01:34:32,495 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 01:34:32,497 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 01:34:34,631 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 01:34:35,666 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 01:34:37,736 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 01:34:37,981 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 01:34:41,082 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 01:34:42,574 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 01:34:42,858 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 01:34:47,006 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 01:34:47,195 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 01:34:51,046 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 01:34:56,369 [INFO] Summary saved to summaries\article69701030.ece_summary.txt
+2025-06-17 01:34:57,766 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 01:35:01,435 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 01:35:03,609 [INFO] Summary saved to summaries\article69701172.ece_summary.txt
+2025-06-17 01:35:11,031 [INFO] Summary saved to summaries\article69701222.ece_summary.txt
+2025-06-17 01:35:13,162 [INFO] Summary saved to summaries\article69701202.ece_summary.txt
+2025-06-17 01:35:16,641 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 01:35:22,186 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 01:35:23,553 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 01:35:27,260 [INFO] Summary saved to summaries\article69701319.ece_summary.txt
+2025-06-17 01:35:31,443 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 01:35:31,510 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 01:35:35,713 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 01:35:37,955 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 01:35:41,032 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 01:35:43,820 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 01:35:45,902 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 01:35:48,322 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 01:35:50,003 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 01:35:53,200 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 01:35:56,385 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 01:35:58,846 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 01:36:02,976 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 01:36:04,112 [INFO] Summary saved to summaries\article69701705.ece_summary.txt
+2025-06-17 01:36:08,018 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 01:36:10,817 [INFO] Summary saved to summaries\article69701746.ece_summary.txt
+2025-06-17 01:36:12,950 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 01:36:14,801 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 01:36:16,015 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 01:36:18,906 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 01:36:19,435 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 01:36:22,425 [INFO] Summary saved to summaries\article69701841.ece_summary.txt
+2025-06-17 01:36:23,705 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 01:36:25,816 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 01:36:27,146 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 01:36:28,344 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 01:36:28,678 [INFO] Summary saved to summaries\article69701946.ece_summary.txt
+2025-06-17 01:36:30,183 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 01:36:34,857 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 01:36:36,284 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 01:36:37,720 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 01:36:37,929 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 01:36:39,338 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 01:36:40,300 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 01:36:43,996 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 01:36:44,187 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 01:36:45,614 [INFO] Summary saved to summaries\article69702481.ece_summary.txt
+2025-06-17 01:36:45,626 [INFO] Summary saved to summaries\article69702484.ece_summary.txt
+2025-06-17 01:36:45,730 [INFO] Summary saved to summaries\article69702497.ece_summary.txt
+2025-06-17 01:36:45,759 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 01:36:45,760 [INFO] starting
+2025-06-17 01:36:45,760 [INFO] Starting RSS feed generation
+2025-06-17 01:36:45,762 [ERROR] Error processing Firstpost India: Invalid URL 'Firstpost India': No scheme supplied. Perhaps you meant https://Firstpost India?
+2025-06-17 01:36:45,762 [ERROR] Error processing NDTV India: Invalid URL 'NDTV India': No scheme supplied. Perhaps you meant https://NDTV India?
+2025-06-17 01:36:45,762 [ERROR] Error processing TOI Top News: Invalid URL 'TOI Top News': No scheme supplied. Perhaps you meant https://TOI Top News?
+2025-06-17 01:36:45,763 [INFO] Generated 0 URLs from RSS feeds
+2025-06-17 01:36:45,763 [INFO] Starting threaded fetching of articles
+2025-06-17 01:36:45,763 [INFO] Threaded fetching completed
+2025-06-17 01:36:45,763 [INFO] Starting summarization process
+2025-06-17 01:36:45,763 [INFO] Pipeline completed successfully
+2025-06-17 01:38:37,855 [WARNING] From C:\Users\satya\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-17 01:38:41,889 [WARNING] From C:\Users\satya\AppData\Roaming\Python\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-17 01:38:47,173 [INFO] Processed 1 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 01:38:47,174 [INFO] Processed 2 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 01:38:48,114 [INFO] Saved article from https://www.firstpost.com/explainers/rapido-bike-taxi-ban-karnataka-bengaluru-13897671.html to raw_articles\rapido-bike-taxi-ban-karnataka-bengaluru.txt
+2025-06-17 01:38:48,217 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 01:38:48,219 [INFO] Saved article from https://www.firstpost.com/explainers/india-students-iran-israel-conflict-13897599.html to raw_articles\india-students-iran-israel-conflict-1389.txt
+2025-06-17 01:39:08,666 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 01:39:10,001 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 01:39:10,183 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 01:39:10,895 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 01:39:13,824 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 01:39:15,886 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 01:39:29,034 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 01:39:29,390 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 01:39:30,984 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 01:39:39,537 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 01:39:45,146 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 01:39:46,645 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 01:39:48,667 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 01:40:02,968 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 01:40:10,776 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 01:40:12,545 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 01:40:12,908 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 01:40:13,613 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 01:40:14,441 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 01:40:15,536 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 01:40:15,766 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 01:40:16,440 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 01:40:18,148 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 01:40:19,821 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 01:40:23,384 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 01:40:25,095 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 01:40:30,958 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 01:40:31,278 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 01:40:31,505 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 01:40:35,469 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 01:40:37,588 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 01:40:39,230 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 01:40:39,246 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 01:40:39,714 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 01:40:41,241 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 01:40:46,338 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 01:40:46,652 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 01:40:47,318 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 01:40:47,566 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 01:40:49,438 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 01:40:53,976 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 01:40:53,981 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 01:40:56,454 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 01:40:58,689 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 01:40:59,847 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 01:41:00,883 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 01:41:02,265 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 01:41:05,629 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 01:41:06,241 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 01:41:07,749 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 01:41:10,282 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 01:41:12,600 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 01:41:13,492 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 01:41:16,190 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 01:41:19,267 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 01:41:23,917 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 01:41:23,953 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 01:41:24,534 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 01:41:25,354 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 01:41:26,924 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 01:41:26,969 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 01:41:27,987 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 01:41:30,093 [INFO] Summary saved to summaries\article69701030.ece_summary.txt
+2025-06-17 01:41:31,541 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 01:41:31,555 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 01:41:31,558 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 01:41:36,945 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 01:41:40,984 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 01:41:44,088 [INFO] Summary saved to summaries\article69701172.ece_summary.txt
+2025-06-17 01:41:44,845 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 01:41:45,011 [INFO] Summary saved to summaries\article69701222.ece_summary.txt
+2025-06-17 01:41:47,751 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 01:41:48,247 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 01:41:51,295 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 01:41:51,295 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 01:41:51,570 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 01:41:53,136 [INFO] Summary saved to summaries\article69701202.ece_summary.txt
+2025-06-17 01:41:59,044 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 01:42:04,514 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 01:42:05,280 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 01:42:06,947 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 01:42:11,734 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 01:42:12,312 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 01:42:15,785 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 01:46:44,384 [INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-17 01:46:44,385 [INFO] NumExpr defaulting to 8 threads.
+2025-06-17 01:46:56,582 [WARNING] From C:\Users\satya\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-17 01:47:01,416 [WARNING] From C:\Users\satya\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-17 01:48:10,519 [INFO] Processed 1 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 01:48:10,519 [INFO] Processed 2 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 01:48:11,288 [INFO] Saved article from https://www.firstpost.com/explainers/india-students-iran-israel-conflict-13897599.html to raw_articles\india-students-iran-israel-conflict-1389.txt
+2025-06-17 01:48:11,289 [INFO] Saved article from https://www.firstpost.com/explainers/rapido-bike-taxi-ban-karnataka-bengaluru-13897671.html to raw_articles\rapido-bike-taxi-ban-karnataka-bengaluru.txt
+2025-06-17 01:48:11,306 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 02:23:06,578 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 02:23:06,600 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 02:23:06,675 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 02:23:06,788 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 02:23:06,888 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 02:23:07,101 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 02:23:08,360 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 02:23:08,462 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 02:23:08,578 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 02:23:08,772 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 02:23:08,942 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 02:23:08,949 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 02:23:10,074 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 02:23:10,574 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 02:23:10,653 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 02:23:10,794 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 02:23:11,313 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 02:23:11,313 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 02:23:11,712 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 02:23:13,032 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 02:23:13,070 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 02:23:13,199 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 02:23:13,507 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 02:23:13,581 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 02:23:13,852 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 02:23:15,037 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 02:23:15,038 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 02:23:15,283 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 02:23:15,491 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 02:23:15,827 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 02:23:15,917 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 02:23:16,516 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 02:23:17,331 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 02:23:17,408 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 02:23:17,408 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 02:23:17,563 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 02:23:17,873 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 02:23:18,512 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 02:23:19,058 [INFO] Summary saved to summaries\article69701030.ece_summary.txt
+2025-06-17 02:23:19,291 [INFO] Summary saved to summaries\article69701172.ece_summary.txt
+2025-06-17 02:23:19,456 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 02:23:20,025 [INFO] Summary saved to summaries\article69701222.ece_summary.txt
+2025-06-17 02:23:20,224 [INFO] Summary saved to summaries\article69701202.ece_summary.txt
+2025-06-17 02:23:20,493 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 02:23:21,503 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 02:23:21,508 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 02:23:21,872 [INFO] Summary saved to summaries\article69701319.ece_summary.txt
+2025-06-17 02:23:22,274 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 02:23:22,319 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 02:23:22,944 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 02:23:23,255 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 02:23:23,458 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 02:23:24,139 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 02:23:24,182 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 02:23:24,695 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 02:23:24,914 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 02:23:25,460 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 02:23:25,676 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 02:23:26,293 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 02:23:26,833 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 02:23:27,309 [INFO] Summary saved to summaries\article69701705.ece_summary.txt
+2025-06-17 02:23:27,528 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 02:23:27,830 [INFO] Summary saved to summaries\article69701746.ece_summary.txt
+2025-06-17 02:23:28,820 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 02:23:29,243 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 02:23:29,380 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 02:23:29,968 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 02:23:30,183 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 02:23:31,046 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 02:23:31,530 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 02:23:31,769 [INFO] Summary saved to summaries\article69701841.ece_summary.txt
+2025-06-17 02:23:32,251 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 02:23:32,287 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 02:23:32,414 [INFO] Summary saved to summaries\article69701946.ece_summary.txt
+2025-06-17 02:23:32,880 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 02:23:33,787 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 02:23:34,043 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 02:23:34,313 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 02:23:34,521 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 02:23:34,612 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 02:23:34,737 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 02:23:35,627 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 02:23:36,283 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 02:23:36,565 [INFO] Summary saved to summaries\article69702497.ece_summary.txt
+2025-06-17 02:23:36,745 [INFO] Summary saved to summaries\article69702481.ece_summary.txt
+2025-06-17 02:23:36,747 [INFO] Summary saved to summaries\article69702484.ece_summary.txt
+2025-06-17 02:23:36,761 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 02:23:37,101 [INFO] Summary saved to summaries\india-students-iran-israel-conflict-1389_summary.txt
+2025-06-17 02:23:37,556 [INFO] Summary saved to summaries\rapido-bike-taxi-ban-karnataka-bengaluru_summary.txt
+2025-06-17 02:28:23,299 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 02:28:23,352 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 02:28:23,406 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 02:28:23,431 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 02:28:23,597 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 02:28:23,790 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 02:28:25,348 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 02:28:25,453 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 02:28:25,617 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 02:28:25,826 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 02:28:25,864 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 02:28:25,992 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 02:28:27,119 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 02:28:27,790 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 02:28:27,945 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 02:28:27,965 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 02:28:28,618 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 02:28:28,719 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 02:28:28,828 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 02:28:30,394 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 02:28:30,779 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 02:28:30,824 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 02:28:31,132 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 02:28:31,160 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 02:28:31,281 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 02:28:32,483 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 02:28:32,486 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 02:28:33,315 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 02:28:33,361 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 02:28:33,493 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 02:28:33,757 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 02:28:34,611 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 02:28:35,323 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 02:28:35,561 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 02:28:35,971 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 02:28:36,056 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 02:28:36,119 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 02:28:37,211 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 02:28:37,470 [INFO] Summary saved to summaries\article69701030.ece_summary.txt
+2025-06-17 02:28:38,170 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 02:28:38,276 [INFO] Summary saved to summaries\article69701172.ece_summary.txt
+2025-06-17 02:28:38,721 [INFO] Summary saved to summaries\article69701222.ece_summary.txt
+2025-06-17 02:28:39,681 [INFO] Summary saved to summaries\article69701202.ece_summary.txt
+2025-06-17 02:28:39,780 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 02:28:40,911 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 02:28:41,169 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 02:28:41,896 [INFO] Summary saved to summaries\article69701319.ece_summary.txt
+2025-06-17 02:28:41,909 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 02:28:42,520 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 02:28:42,690 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 02:28:43,153 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 02:28:43,735 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 02:28:43,845 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 02:28:44,130 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 02:28:44,604 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 02:28:44,940 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 02:28:45,176 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 02:28:45,767 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 02:28:45,956 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 02:28:46,621 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 02:28:46,905 [INFO] Summary saved to summaries\article69701705.ece_summary.txt
+2025-06-17 02:28:47,226 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 02:28:47,487 [INFO] Summary saved to summaries\article69701746.ece_summary.txt
+2025-06-17 02:28:47,931 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 02:28:48,369 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 02:28:48,637 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 02:28:49,474 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 02:28:49,578 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 02:28:50,487 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 02:28:50,683 [INFO] Summary saved to summaries\article69701841.ece_summary.txt
+2025-06-17 02:28:50,748 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 02:28:51,376 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 02:28:51,761 [INFO] Summary saved to summaries\article69701946.ece_summary.txt
+2025-06-17 02:28:51,841 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 02:28:52,333 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 02:28:52,960 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 02:28:53,131 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 02:28:53,752 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 02:28:53,974 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 02:28:54,081 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 02:28:54,147 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 02:28:54,716 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 02:28:55,372 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 02:28:55,924 [INFO] Summary saved to summaries\article69702497.ece_summary.txt
+2025-06-17 02:28:56,012 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 02:28:56,012 [INFO] Summary saved to summaries\article69702484.ece_summary.txt
+2025-06-17 02:28:56,013 [INFO] Summary saved to summaries\article69702481.ece_summary.txt
+2025-06-17 02:28:56,225 [INFO] Summary saved to summaries\india-students-iran-israel-conflict-1389_summary.txt
+2025-06-17 02:28:56,771 [INFO] Summary saved to summaries\rapido-bike-taxi-ban-karnataka-bengaluru_summary.txt
+2025-06-17 04:05:43,185 [INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-17 04:05:43,187 [INFO] NumExpr defaulting to 8 threads.
+2025-06-17 04:05:58,995 [WARNING] From C:\Users\satya\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-06-17 04:06:03,443 [WARNING] From C:\Users\satya\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-17 04:06:12,326 [INFO] Processed 1 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 04:06:12,327 [INFO] Processed 2 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 04:06:13,260 [INFO] Saved article from https://www.firstpost.com/explainers/rapido-bike-taxi-ban-karnataka-bengaluru-13897671.html to raw_articles\rapido-bike-taxi-ban-karnataka-bengaluru.txt
+2025-06-17 04:06:13,262 [INFO] Saved article from https://www.firstpost.com/explainers/india-students-iran-israel-conflict-13897599.html to raw_articles\india-students-iran-israel-conflict-1389.txt
+2025-06-17 04:06:13,262 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 04:06:23,822 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 04:06:24,322 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 04:06:24,646 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 04:06:24,815 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 04:06:25,212 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 04:06:27,265 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 04:06:32,622 [INFO] Summary saved to summaries\article69697824.ece_summary.txt
+2025-06-17 04:06:33,160 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 04:06:33,432 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 04:06:35,148 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 04:06:35,358 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 04:06:36,274 [INFO] Summary saved to summaries\article69697865.ece_summary.txt
+2025-06-17 04:06:40,757 [INFO] Summary saved to summaries\article69698028.ece_summary.txt
+2025-06-17 04:06:42,643 [INFO] Summary saved to summaries\article69698043.ece_summary.txt
+2025-06-17 04:06:44,320 [INFO] Summary saved to summaries\article69697875.ece_summary.txt
+2025-06-17 04:06:44,426 [INFO] Summary saved to summaries\article69698115.ece_summary.txt
+2025-06-17 04:06:46,680 [INFO] Summary saved to summaries\article69698083.ece_summary.txt
+2025-06-17 04:06:47,337 [INFO] Summary saved to summaries\article69698454.ece_summary.txt
+2025-06-17 04:06:47,840 [INFO] Summary saved to summaries\article69698585.ece_summary.txt
+2025-06-17 04:06:53,042 [INFO] Summary saved to summaries\article69698612.ece_summary.txt
+2025-06-17 04:06:54,572 [INFO] Summary saved to summaries\article69698640.ece_summary.txt
+2025-06-17 04:06:55,822 [INFO] Summary saved to summaries\article69698623.ece_summary.txt
+2025-06-17 04:06:56,318 [INFO] Summary saved to summaries\article69698668.ece_summary.txt
+2025-06-17 04:06:57,010 [INFO] Summary saved to summaries\article69698713.ece_summary.txt
+2025-06-17 04:06:57,012 [INFO] Summary saved to summaries\article69698866.ece_summary.txt
+2025-06-17 04:07:02,056 [INFO] Summary saved to summaries\article69698896.ece_summary.txt
+2025-06-17 04:07:02,059 [WARNING] Empty article found in raw_articles\article69700535.ece.txt, skipping summarization.
+2025-06-17 04:07:05,625 [INFO] Summary saved to summaries\article69700001.ece_summary.txt
+2025-06-17 04:07:05,659 [INFO] Summary saved to summaries\article69700157.ece_summary.txt
+2025-06-17 04:07:05,693 [INFO] Summary saved to summaries\article69700487.ece_summary.txt
+2025-06-17 04:07:07,010 [INFO] Summary saved to summaries\article69700344.ece_summary.txt
+2025-06-17 04:07:10,956 [INFO] Summary saved to summaries\article69700422.ece_summary.txt
+2025-06-17 04:07:12,071 [INFO] Summary saved to summaries\article69700680.ece_summary.txt
+2025-06-17 04:07:12,703 [INFO] Summary saved to summaries\article69700830.ece_summary.txt
+2025-06-17 04:07:15,049 [INFO] Summary saved to summaries\article69700954.ece_summary.txt
+2025-06-17 04:07:15,202 [INFO] Summary saved to summaries\article69700825.ece_summary.txt
+2025-06-17 04:07:15,531 [INFO] Summary saved to summaries\article69700725.ece_summary.txt
+2025-06-17 04:07:19,697 [INFO] Summary saved to summaries\article69701030.ece_summary.txt
+2025-06-17 04:07:20,793 [INFO] Summary saved to summaries\article69701016.ece_summary.txt
+2025-06-17 04:07:22,370 [INFO] Summary saved to summaries\article69701116.ece_summary.txt
+2025-06-17 04:07:22,964 [INFO] Summary saved to summaries\article69701172.ece_summary.txt
+2025-06-17 04:07:25,639 [INFO] Summary saved to summaries\article69701222.ece_summary.txt
+2025-06-17 04:07:27,926 [INFO] Summary saved to summaries\article69701264.ece_summary.txt
+2025-06-17 04:07:28,198 [INFO] Summary saved to summaries\article69701202.ece_summary.txt
+2025-06-17 04:07:36,112 [INFO] Summary saved to summaries\article69701305.ece_summary.txt
+2025-06-17 04:07:36,500 [INFO] Summary saved to summaries\article69701301.ece_summary.txt
+2025-06-17 04:07:40,232 [INFO] Summary saved to summaries\article69701319.ece_summary.txt
+2025-06-17 04:07:43,615 [INFO] Summary saved to summaries\article69701338.ece_summary.txt
+2025-06-17 04:07:46,414 [INFO] Summary saved to summaries\article69701340.ece_summary.txt
+2025-06-17 04:07:48,756 [INFO] Summary saved to summaries\article69701446.ece_summary.txt
+2025-06-17 04:07:53,132 [INFO] Summary saved to summaries\article69701453.ece_summary.txt
+2025-06-17 04:07:55,340 [INFO] Summary saved to summaries\article69701495.ece_summary.txt
+2025-06-17 04:07:59,703 [INFO] Summary saved to summaries\article69701459.ece_summary.txt
+2025-06-17 04:08:00,375 [INFO] Summary saved to summaries\article69701496.ece_summary.txt
+2025-06-17 04:08:02,854 [INFO] Summary saved to summaries\article69701532.ece_summary.txt
+2025-06-17 04:08:03,752 [INFO] Summary saved to summaries\article69701502.ece_summary.txt
+2025-06-17 04:08:05,952 [INFO] Summary saved to summaries\article69701534.ece_summary.txt
+2025-06-17 04:08:06,098 [INFO] Summary saved to summaries\article69701539.ece_summary.txt
+2025-06-17 04:08:10,271 [INFO] Summary saved to summaries\article69701565.ece_summary.txt
+2025-06-17 04:08:14,387 [INFO] Summary saved to summaries\article69701577.ece_summary.txt
+2025-06-17 04:08:16,294 [INFO] Summary saved to summaries\article69701705.ece_summary.txt
+2025-06-17 04:08:19,099 [INFO] Summary saved to summaries\article69701746.ece_summary.txt
+2025-06-17 04:08:20,156 [INFO] Summary saved to summaries\article69701605.ece_summary.txt
+2025-06-17 04:08:27,928 [INFO] Summary saved to summaries\article69701740.ece_summary.txt
+2025-06-17 04:08:30,851 [INFO] Summary saved to summaries\article69701753.ece_summary.txt
+2025-06-17 04:08:32,318 [INFO] Summary saved to summaries\article69701813.ece_summary.txt
+2025-06-17 04:08:37,610 [INFO] Summary saved to summaries\article69701822.ece_summary.txt
+2025-06-17 04:08:38,072 [INFO] Summary saved to summaries\article69701824.ece_summary.txt
+2025-06-17 04:08:43,849 [INFO] Summary saved to summaries\article69701797.ece_summary.txt
+2025-06-17 04:08:45,278 [INFO] Summary saved to summaries\article69701904.ece_summary.txt
+2025-06-17 04:08:48,118 [INFO] Summary saved to summaries\article69701841.ece_summary.txt
+2025-06-17 04:08:49,336 [INFO] Summary saved to summaries\article69701912.ece_summary.txt
+2025-06-17 04:08:50,154 [INFO] Summary saved to summaries\article69701898.ece_summary.txt
+2025-06-17 04:08:50,370 [INFO] Summary saved to summaries\article69701946.ece_summary.txt
+2025-06-17 04:08:52,852 [INFO] Summary saved to summaries\article69702004.ece_summary.txt
+2025-06-17 04:08:55,722 [INFO] Summary saved to summaries\article69702014.ece_summary.txt
+2025-06-17 04:08:59,117 [INFO] Summary saved to summaries\article69702016.ece_summary.txt
+2025-06-17 04:08:59,977 [INFO] Summary saved to summaries\article69702065.ece_summary.txt
+2025-06-17 04:09:00,687 [INFO] Summary saved to summaries\article69702049.ece_summary.txt
+2025-06-17 04:09:00,795 [INFO] Summary saved to summaries\article69702124.ece_summary.txt
+2025-06-17 04:09:01,369 [INFO] Summary saved to summaries\article69702062.ece_summary.txt
+2025-06-17 04:09:03,777 [INFO] Summary saved to summaries\article69702132.ece_summary.txt
+2025-06-17 04:09:08,936 [INFO] Summary saved to summaries\article69702497.ece_summary.txt
+2025-06-17 04:09:08,995 [INFO] Summary saved to summaries\article69702296.ece_summary.txt
+2025-06-17 04:09:09,179 [INFO] Summary saved to summaries\article69702484.ece_summary.txt
+2025-06-17 04:09:09,195 [INFO] Summary saved to summaries\article69702481.ece_summary.txt
+2025-06-17 04:09:09,840 [INFO] Summary saved to summaries\article69702313.ece_summary.txt
+2025-06-17 04:09:10,133 [INFO] Summary saved to summaries\india-students-iran-israel-conflict-1389_summary.txt
+2025-06-17 04:09:12,665 [INFO] Summary saved to summaries\rapido-bike-taxi-ban-karnataka-bengaluru_summary.txt
+2025-06-17 04:13:16,165 [INFO] Processed 1 articles from https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+2025-06-17 04:13:17,013 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 04:13:17,093 [INFO] Saved article from https://www.firstpost.com/explainers/rapido-bike-taxi-ban-karnataka-bengaluru-13897671.html to raw_articles\rapido-bike-taxi-ban-karnataka-bengaluru.txt
+2025-06-17 04:13:29,199 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 04:13:29,324 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 04:13:29,787 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 04:13:29,870 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 04:13:29,995 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 04:13:30,898 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 04:13:35,245 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 04:13:35,285 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 04:13:35,658 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
+2025-06-17 04:13:35,847 [INFO] Summary saved to summaries\article69697820.ece_summary.txt
+2025-06-17 04:14:07,627 [INFO] Saved article from https://timesofindia.indiatimes.com/india/hope-to-conclude-eu-fta-by-year-end-pm-modi/articleshow/121894380.cms to raw_articles\121894380.cms.txt
+2025-06-17 04:14:07,627 [INFO] Saved article from https://www.firstpost.com/explainers/air-india-plane-crash-is-flying-risky-business-13897673.html to raw_articles\air-india-plane-crash-is-flying-risky-bu.txt
+2025-06-17 04:14:07,824 [INFO] Saved article from https://www.ndtv.com/education/west-bengal-2nd-slst-assistant-teacher-registration-begins-today-details-here-8683558#publisher=newsstand to raw_articles\west-bengal-2nd-slst-assistant-teacher-r.txt
+2025-06-17 04:14:20,239 [INFO] Summary saved to summaries\article69695046.ece_summary.txt
+2025-06-17 04:14:20,682 [INFO] Summary saved to summaries\article69697155.ece_summary.txt
+2025-06-17 04:14:21,582 [INFO] Summary saved to summaries\article69697264.ece_summary.txt
+2025-06-17 04:14:21,839 [INFO] Summary saved to summaries\air-india-plane-crash-is-flying-risky-bu_summary.txt
+2025-06-17 04:14:22,717 [INFO] Summary saved to summaries\121894380.cms_summary.txt
+2025-06-17 04:14:23,082 [INFO] Summary saved to summaries\article69697215.ece_summary.txt
+2025-06-17 04:14:28,757 [INFO] Summary saved to summaries\article69697456.ece_summary.txt
+2025-06-17 04:14:28,924 [INFO] Summary saved to summaries\article69697284.ece_summary.txt
+2025-06-17 04:14:29,232 [INFO] Summary saved to summaries\article69697349.ece_summary.txt
+2025-06-17 04:14:29,643 [INFO] Summary saved to summaries\article69697417.ece_summary.txt
